@@ -24,7 +24,7 @@ The project demonstrates UI design, page navigation, and basic client-side funct
 ## 🎓 Academic Details
 - Project Type: Seminar Project
 - Course: B.Tech (CSE/IT)
-- College: Government College of Engineering, Chandrapur
+- College: RCERT, Chandrapur
 
 ## 📌 How to Run
 1. Download or clone the repository
